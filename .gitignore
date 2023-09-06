@@ -37,3 +37,6 @@ lerna-debug.log*
 # todo
 todo.md
 learning.md
+
+
+.env
