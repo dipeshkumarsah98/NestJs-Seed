@@ -15,6 +15,9 @@ export class ArticleEntity implements Article {
   body: string;
 
   @ApiProperty()
+  authorId: number;
+
+  @ApiProperty()
   published: boolean;
 
   @ApiProperty()
