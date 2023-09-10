@@ -49,7 +49,6 @@ async function main() {
       authorId: user2.id,
     },
   });
-  console.log({ post1, post2 });
 }
 
 main()
